@@ -1,0 +1,2 @@
+favorite_number = input("What is your favorite number? ")
+print(favorite_number)
